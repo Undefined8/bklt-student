@@ -1,0 +1,16 @@
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+h2 {
+    color: #f7df07;
+    text-align: center;
+}
+.social p{
+    text-align: center;
+}
+.jumbotron{
+    background-image: url("../images/bklt.jpg");
+    color: #fff;
+}
